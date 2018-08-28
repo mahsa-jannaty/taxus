@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MahsaJannaty\\Taxus\\": "foo/mahsa-jannaty/taxus/src/"
+      "MahsaJannaty\\Taxus\\": "src/"
     }
   }
 }
